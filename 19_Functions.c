@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// Argument and Return Value
+// Argument and Return Value 
+// Function Prototype
 int sum(int a, int b);
 
 // No Argument and No Return Value
